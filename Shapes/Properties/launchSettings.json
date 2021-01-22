@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shapes": {
+      "commandName": "Project",
+      "commandLineArgs": "square"
+    }
+  }
+}
